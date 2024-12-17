@@ -1,20 +1,21 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Linq;
-using T_shirtWebStore.Data;
+using T_shirtWebStore.Data.Data;
+using T_shirtWebStore.Data.Repository.IRepository;
 using T_shirtWebStore.Models;
 
 namespace T_shirtWebStore.Controllers
 {
     public class CategoryController : Controller
     {
-        private readonly ApplicationDbContext _app; 
-        public CategoryController(ApplicationDbContext app)
+        private readonly ICategoryRepository repository; 
+        public CategoryController(ICategoryRepository app)
         {
-            _app = app;
+            repository = app;
         }
         public IActionResult Index()
         {
-            List<Category> categories = _app.Categories.ToList();
+            List<Category> categories = repository.GetAll().ToList();
             return View(categories);
         }
 
@@ -36,8 +37,8 @@ namespace T_shirtWebStore.Controllers
             //}
             if (ModelState.IsValid)
             {
-                _app.Categories.Add(category);
-                _app.SaveChanges();
+                repository.Add(category);
+                repository.Save();
                 TempData["success"] = "Category created successfully";
                 return RedirectToAction("Index");
             }
@@ -50,7 +51,7 @@ namespace T_shirtWebStore.Controllers
             {
                 return NotFound();
             }
-            Category? category = _app.Categories.Find(id);
+            Category? category = repository.Get(u => u.id==id);
             //Category? categoryTwo = _app.Categories.FirstOrDefault(x=>x.Id==id);
             //Category? categoryThree = _app.Categories.Where(u=>u.Id==id).FirstOrDefault();
             if(category == null)

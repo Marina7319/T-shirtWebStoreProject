@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using T_shirtWebStore.Models;
 
-namespace T_shirtWebStore.Data
+namespace T_shirtWebStore.Data.Data
 {
     public class ApplicationDbContext : DbContext
     {
