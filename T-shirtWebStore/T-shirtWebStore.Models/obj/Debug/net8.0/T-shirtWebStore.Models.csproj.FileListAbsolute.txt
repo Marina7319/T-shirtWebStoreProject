@@ -1,0 +1,13 @@
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Models\bin\Debug\net8.0\T-shirtWebStore.Models.deps.json
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Models\bin\Debug\net8.0\T-shirtWebStore.Models.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Models\bin\Debug\net8.0\T-shirtWebStore.Models.pdb
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Models\obj\Debug\net8.0\T-shirtWebStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Models\obj\Debug\net8.0\T-shirtWebStore.Models.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Models\obj\Debug\net8.0\T-shirtWebStore.Models.AssemblyInfo.cs
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Models\obj\Debug\net8.0\T-shirtWebStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Models\obj\Debug\net8.0\T-shirtWebStore.Models.sourcelink.json
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Models\obj\Debug\net8.0\T-shirtWebStore.Models.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Models\obj\Debug\net8.0\refint\T-shirtWebStore.Models.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Models\obj\Debug\net8.0\T-shirtWebStore.Models.pdb
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Models\obj\Debug\net8.0\ref\T-shirtWebStore.Models.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Models\obj\Debug\net8.0\T-shirtWebStore.Models.csproj.AssemblyReference.cache

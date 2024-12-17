@@ -11,3 +11,8 @@ C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebSt
 C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Data\obj\Debug\net8.0\refint\T-shirtWebStore.Data.dll
 C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Data\obj\Debug\net8.0\T-shirtWebStore.Data.pdb
 C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Data\obj\Debug\net8.0\ref\T-shirtWebStore.Data.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Data\bin\Debug\net8.0\T-shirtWebStore.Models.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Data\bin\Debug\net8.0\T-shirtWebStore.Utility.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Data\bin\Debug\net8.0\T-shirtWebStore.Models.pdb
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Data\bin\Debug\net8.0\T-shirtWebStore.Utility.pdb
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore.Data\obj\Debug\net8.0\T-shirtW.A7081E5B.Up2Date

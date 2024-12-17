@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\t-shirtwebstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\t-shirtwebstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2DCDBD-151E-4A7D-86E3-31686FE532DA}|T-shirtWebStore.Utility\\T-shirtWebStore.Utility.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2DCDBD-151E-4A7D-86E3-31686FE532DA}|T-shirtWebStore.Utility\\T-shirtWebStore.Utility.csproj|solutionrelative:t-shirtwebstore.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FF0683-D777-4C1B-B770-AC69A1453E72}|T-shirtWebStore.Models\\T-shirtWebStore.Models.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FF0683-D777-4C1B-B770-AC69A1453E72}|T-shirtWebStore.Models\\T-shirtWebStore.Models.csproj|solutionrelative:t-shirtwebstore.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FF0683-D777-4C1B-B770-AC69A1453E72}|T-shirtWebStore.Models\\T-shirtWebStore.Models.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FF0683-D777-4C1B-B770-AC69A1453E72}|T-shirtWebStore.Models\\T-shirtWebStore.Models.csproj|solutionrelative:t-shirtwebstore.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745B7408-96E9-468B-86A1-A004E5B8128B}|T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore.data\\t-shirtwebstore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{745B7408-96E9-468B-86A1-A004E5B8128B}|T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj|solutionrelative:t-shirtwebstore.data\\t-shirtwebstore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745B7408-96E9-468B-86A1-A004E5B8128B}|T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745B7408-96E9-468B-86A1-A004E5B8128B}|T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj|solutionrelative:t-shirtwebstore.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\t-shirtwebstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\t-shirtwebstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\data\\migrations\\20241216220157_addmigrationtot-shirtwebstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\data\\migrations\\20241216220157_addmigrationtot-shirtwebstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,48 +67,12 @@
       "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{745B7408-96E9-468B-86A1-A004E5B8128B}|T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore.data\\t-shirtwebstore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{745B7408-96E9-468B-86A1-A004E5B8128B}|T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj|solutionrelative:t-shirtwebstore.data\\t-shirtwebstore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{745B7408-96E9-468B-86A1-A004E5B8128B}|T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{745B7408-96E9-468B-86A1-A004E5B8128B}|T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj|solutionrelative:t-shirtwebstore.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\data\\migrations\\20241216224658_migcategoriesindb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\data\\migrations\\20241216224658_migcategoriesindb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\data\\migrations\\20241216221622_todbidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\data\\migrations\\20241216221622_todbidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\data\\migrations\\20241216220722_addmigrationtot-shirtwebstoreu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\data\\migrations\\20241216220722_addmigrationtot-shirtwebstoreu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|c:\\users\\marina\\source\\repos\\t-shirtwebstoreproject\\t-shirtwebstore\\t-shirtwebstore\\data\\migrations\\20241217021016_addingcategoriestodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56A223B-2F8E-4601-961C-00CF9F3F7F64}|T-shirtWebStore\\T-shirtWebStore.csproj|solutionrelative:t-shirtwebstore\\data\\migrations\\20241217021016_addingcategoriestodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,20 +90,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "T-shirtWebStore.Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "T-shirtWebStore.Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:46:55.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Models\\Category.cs",
+              "RelativeDocumentMoniker": "T-shirtWebStore.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Models\\Category.cs",
+              "RelativeToolTip": "T-shirtWebStore.Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:46:55.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "T-shirtWebStore.Data\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "T-shirtWebStore.Data\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:42:26.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "T-shirtWebStore.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Utility\\SD.cs",
+              "RelativeToolTip": "T-shirtWebStore.Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:41:44.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "_Notification.cshtml",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Views\\Shared\\_Notification.cshtml",
               "RelativeDocumentMoniker": "T-shirtWebStore\\Views\\Shared\\_Notification.cshtml",
               "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Views\\Shared\\_Notification.cshtml",
               "RelativeToolTip": "T-shirtWebStore\\Views\\Shared\\_Notification.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-17T19:54:57.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "T-shirtWebStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -136,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "T-shirtWebStore\\Views\\Category\\Delete.cshtml",
@@ -149,33 +181,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "T-shirtWebStore\\Views\\Category\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Views\\Category\\Edit.cshtml",
               "RelativeToolTip": "T-shirtWebStore\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwBgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-17T04:40:34.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "T-shirtWebStore\\Views\\Category\\Create.cshtml",
               "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Views\\Category\\Create.cshtml",
               "RelativeToolTip": "T-shirtWebStore\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-17T02:48:46.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "T-shirtWebStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -183,35 +215,12 @@
               "RelativeToolTip": "T-shirtWebStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "ViewState": "AgIAALI0AAAAAAAAAAAwwNA0AAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-17T02:24:18.721Z"
+              "WhenOpened": "2024-12-17T02:24:18.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20241217021016_addingCategoriesToDb.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Data\\Migrations\\20241217021016_addingCategoriesToDb.cs",
-              "RelativeDocumentMoniker": "T-shirtWebStore\\Data\\Migrations\\20241217021016_addingCategoriesToDb.cs",
-              "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Data\\Migrations\\20241217021016_addingCategoriesToDb.cs",
-              "RelativeToolTip": "T-shirtWebStore\\Data\\Migrations\\20241217021016_addingCategoriesToDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T02:10:16.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20241216224658_migCategoriesinDb.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Data\\Migrations\\20241216224658_migCategoriesinDb.cs",
-              "RelativeDocumentMoniker": "T-shirtWebStore\\Data\\Migrations\\20241216224658_migCategoriesinDb.cs",
-              "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Data\\Migrations\\20241216224658_migCategoriesinDb.cs",
-              "RelativeToolTip": "T-shirtWebStore\\Data\\Migrations\\20241216224658_migCategoriesinDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T22:46:58.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "T-shirtWebStore\\Views\\Shared\\_Layout.cshtml",
@@ -224,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "T-shirtWebStore\\Views\\Category\\Index.cshtml",
@@ -237,32 +246,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "T-shirtWebStore\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "T-shirtWebStore\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHcAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAABBwHcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T22:22:40.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20241216221622_toDbIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Data\\Migrations\\20241216221622_toDbIdentity.cs",
-              "RelativeDocumentMoniker": "T-shirtWebStore\\Data\\Migrations\\20241216221622_toDbIdentity.cs",
-              "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Data\\Migrations\\20241216221622_toDbIdentity.cs",
-              "RelativeToolTip": "T-shirtWebStore\\Data\\Migrations\\20241216221622_toDbIdentity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T22:16:22.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "T-shirtWebStore\\ScaffoldingReadMe.txt",
@@ -270,61 +267,25 @@
               "RelativeToolTip": "T-shirtWebStore\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-16T22:14:30.416Z"
+              "WhenOpened": "2024-12-16T22:14:30.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "T-shirtWebStore.csproj",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\T-shirtWebStore.csproj",
               "RelativeDocumentMoniker": "T-shirtWebStore\\T-shirtWebStore.csproj",
               "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\T-shirtWebStore.csproj",
               "RelativeToolTip": "T-shirtWebStore\\T-shirtWebStore.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-16T21:47:04.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20241216220722_addMigrationTot-shirtWebStoreu.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Data\\Migrations\\20241216220722_addMigrationTot-shirtWebStoreu.cs",
-              "RelativeDocumentMoniker": "T-shirtWebStore\\Data\\Migrations\\20241216220722_addMigrationTot-shirtWebStoreu.cs",
-              "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Data\\Migrations\\20241216220722_addMigrationTot-shirtWebStoreu.cs",
-              "RelativeToolTip": "T-shirtWebStore\\Data\\Migrations\\20241216220722_addMigrationTot-shirtWebStoreu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T22:07:22.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20241216220157_addMigrationTot-shirtWebStore.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Data\\Migrations\\20241216220157_addMigrationTot-shirtWebStore.cs",
-              "RelativeDocumentMoniker": "T-shirtWebStore\\Data\\Migrations\\20241216220157_addMigrationTot-shirtWebStore.cs",
-              "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Data\\Migrations\\20241216220157_addMigrationTot-shirtWebStore.cs",
-              "RelativeToolTip": "T-shirtWebStore\\Data\\Migrations\\20241216220157_addMigrationTot-shirtWebStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T22:01:57.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "T-shirtWebStore\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "T-shirtWebStore\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:39:24.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 5,
               "Title": "T-shirtWebStore.Data.csproj",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj",
               "RelativeDocumentMoniker": "T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj",
@@ -337,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Program.cs",
               "RelativeDocumentMoniker": "T-shirtWebStore\\Program.cs",
@@ -345,23 +306,12 @@
               "RelativeToolTip": "T-shirtWebStore\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:15:04.164Z"
+              "WhenOpened": "2024-12-16T21:15:04.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "T-shirtWebStore\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "T-shirtWebStore\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:14:11.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\appsettings.json",
               "RelativeDocumentMoniker": "T-shirtWebStore\\appsettings.json",
@@ -369,32 +319,8 @@
               "RelativeToolTip": "T-shirtWebStore\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-16T21:08:22.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "T-shirtWebStore\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\Models\\Category.cs",
-              "RelativeToolTip": "T-shirtWebStore\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:07:04.644Z",
+              "WhenOpened": "2024-12-16T21:08:22.754Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Data\\Class1.cs",
-              "RelativeDocumentMoniker": "T-shirtWebStore.Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Data\\Class1.cs",
-              "RelativeToolTip": "T-shirtWebStore.Data\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T20:58:55.23Z"
             }
           ]
         }

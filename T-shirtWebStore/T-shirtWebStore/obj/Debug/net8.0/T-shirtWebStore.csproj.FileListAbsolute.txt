@@ -296,3 +296,12 @@ C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebSt
 C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore\bin\Debug\net8.0\T-shirtWebStore.Data.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore\bin\Debug\net8.0\T-shirtWebStore.Models.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore\bin\Debug\net8.0\T-shirtWebStore.Utility.dll
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore\bin\Debug\net8.0\T-shirtWebStore.Data.pdb
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore\bin\Debug\net8.0\T-shirtWebStore.Models.pdb
+C:\Users\Marina\source\repos\T-shirtWebStoreProject\T-shirtWebStore\T-shirtWebStore\bin\Debug\net8.0\T-shirtWebStore.Utility.pdb

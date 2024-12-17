@@ -4,6 +4,231 @@
     "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\T-shirtWebStore.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj",
+        "projectName": "T-shirtWebStore.Data",
+        "projectPath": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj",
+        "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Models\\T-shirtWebStore.Models.csproj": {
+                "projectPath": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Models\\T-shirtWebStore.Models.csproj"
+              },
+              "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Utility\\T-shirtWebStore.Utility.csproj": {
+                "projectPath": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Utility\\T-shirtWebStore.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "System.Diagnostics.Tools": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Models\\T-shirtWebStore.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Models\\T-shirtWebStore.Models.csproj",
+        "projectName": "T-shirtWebStore.Models",
+        "projectPath": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Models\\T-shirtWebStore.Models.csproj",
+        "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Utility\\T-shirtWebStore.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Utility\\T-shirtWebStore.Utility.csproj",
+        "projectName": "T-shirtWebStore.Utility",
+        "projectPath": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Utility\\T-shirtWebStore.Utility.csproj",
+        "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore\\T-shirtWebStore.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -30,7 +255,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj": {
+                "projectPath": "C:\\Users\\Marina\\source\\repos\\T-shirtWebStoreProject\\T-shirtWebStore\\T-shirtWebStore.Data\\T-shirtWebStore.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

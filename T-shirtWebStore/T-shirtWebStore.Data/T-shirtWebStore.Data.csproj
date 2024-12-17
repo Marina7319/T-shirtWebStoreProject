@@ -9,8 +9,13 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.11" />
     <PackageReference Include="System.Diagnostics.Tools" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\T-shirtWebStore.Models\T-shirtWebStore.Models.csproj" />
+    <ProjectReference Include="..\T-shirtWebStore.Utility\T-shirtWebStore.Utility.csproj" />
   </ItemGroup>
 
 </Project>
