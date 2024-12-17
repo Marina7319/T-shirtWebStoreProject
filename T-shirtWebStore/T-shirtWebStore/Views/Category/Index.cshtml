@@ -25,10 +25,10 @@
             <td>@obj.DisplayOrder</td>
             <td>
                 <div role="group">
-                    <a asp-controller="Category" asp-action="Edit" asp-route-categoryId="@obj.Id" class="btn btn-primary mx-2">
+                    <a asp-controller="Category" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
                             <i class="bi bi-pen-fill"></i>
                         </a>
-                        <a asp-controller="Category" asp-action="Delete" class="btn btn-primary mx-2">
+                        <a asp-controller="Category" asp-action="Delete" asp-route-id="@obj.Id"  class="btn btn-primary mx-2">
                             <i class="bi bi-pen-square"></i>Delete
                         </a>
                 </div>

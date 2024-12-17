@@ -79,5 +79,44 @@ namespace T_shirtWebStore.Controllers
             }
             return View();
         }
+
+        public IActionResult Delete(int? id)
+        {
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+            Category? category = _app.Categories.Find(id);
+            //Category? categoryTwo = _app.Categories.FirstOrDefault(x=>x.Id==id);
+            //Category? categoryThree = _app.Categories.Where(u=>u.Id==id).FirstOrDefault();
+            if (category == null)
+            {
+                return NotFound();
+            }
+            return View(category);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        public IActionResult DeletePost(int? id)
+        {
+
+            //if (category.Name == category.DisplayOrder.ToString())
+            //{
+            //    ModelState.AddModelError("name", "The DisplayOrder cannot match the name");
+            //}
+            //if (category.Name != null && category.Name.ToLower() == "test")
+            //{
+            //    ModelState.AddModelError("", "Test is an invalid value");
+            //}
+            Category? categories = _app.Categories.Find(id);
+            if(categories == null)
+            {
+                return NotFound();
+            }
+                _app.Categories.Remove(categories);
+                _app.SaveChanges();
+                return RedirectToAction("Index");
+          
+        }
     }
 }

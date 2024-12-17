@@ -7,15 +7,15 @@
         <div asp-validation-summary="ModelOnly"></div>
         <div class="form-group">
             <label for="exampleFormControlInput1">Category Name</label>
-            <input type="text" class="form-control" asp-for="Name" id="exampleFormControlInput1" placeholder="category">
-            <span asp-validation-for="Name" class="text-danger"></span>
+            <input type="text" class="form-control" disabled asp-for="Name" id="exampleFormControlInput1" placeholder="category">
+         
         </div>
         <div class="form-group">
             <label for="exampleFormControlInput1">Display Order</label>
-            <input type="text" class="form-control" asp-for="DisplayOrder" id="exampleFormControlInput1">
-            <span asp-validation-for="DisplayOrder" class="text-danger"></span>
+            <input type="text" class="form-control" disabled asp-for="DisplayOrder" id="exampleFormControlInput1">
+         
         </div>
-        <button type="submit" class="btn btn-lg btn-primary" style="width:150px">Updates</button>
+        <button type="submit" class="btn btn-lg btn-primary" style="width:150px">Delete</button>
         <a asp-controller="Category" asp-action="Index" class="btn btn-secondary btn-lg" style="width:150px">
             Back to List
         </a>
