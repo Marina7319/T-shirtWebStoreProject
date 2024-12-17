@@ -38,6 +38,7 @@ namespace T_shirtWebStore.Controllers
             {
                 _app.Categories.Add(category);
                 _app.SaveChanges();
+                TempData["success"] = "Category created successfully";
                 return RedirectToAction("Index");
             }
             return View();
@@ -75,6 +76,7 @@ namespace T_shirtWebStore.Controllers
             {
                 _app.Categories.Update(category);
                 _app.SaveChanges();
+                TempData["success"] = "Category edited successfully";
                 return RedirectToAction("Index");
             }
             return View();
@@ -115,7 +117,8 @@ namespace T_shirtWebStore.Controllers
             }
                 _app.Categories.Remove(categories);
                 _app.SaveChanges();
-                return RedirectToAction("Index");
+            TempData["success"] = "Category deleted successfully";
+            return RedirectToAction("Index");
           
         }
     }
