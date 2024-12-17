@@ -11,6 +11,7 @@ namespace T_shirtWebStore.Models
         [DisplayName("Category Name")]
         public string Name { get; set; }
         [DisplayName("Category Order")]
+        [Range(1, 100)]
         public int DisplayOrder { get; set; }
     }
 }
