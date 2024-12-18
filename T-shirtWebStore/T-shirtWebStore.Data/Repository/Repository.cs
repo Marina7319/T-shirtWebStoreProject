@@ -13,40 +13,46 @@ namespace T_shirtWebStore.Data.Repository
     public class Repository<T> : IRepository<T> where T : class
     {
         private readonly ApplicationDbContext database;
-        internal DbSet<T> dbSet;
+        internal DbSet<T> db;
 
         public Repository(ApplicationDbContext _database)
         {
             database= _database;
-            this.dbSet = database.Set<T>();
+            this.db = database.Set<T>();
+
 
         }
         public void Add(T entity)
         {
-            dbSet.Add(entity);
+            db.Add(entity);
         }
 
         public T Get(Expression<Func<T, bool>> filter)
         {
-            IQueryable<T> query = dbSet;
+            IQueryable<T> query = db;
             query = query.Where(filter);
             return query.FirstOrDefault();
         }
 
         public IEnumerable<T> GetAll()
         {
-            IQueryable<T> query = dbSet;
+            IQueryable<T> query = db;
             return query.ToList();
         }
 
         public void Remove(T entity)
         {
-            dbSet.Remove(entity);
+            db.Remove(entity);
         }
 
         public void RemoveRange(IEnumerable<T> entity)
         {
-            dbSet.RemoveRange(entity);
+            db.RemoveRange(entity);
+        }
+
+        public void Update(T entity)
+        {
+            throw new NotImplementedException();
         }
     }
     

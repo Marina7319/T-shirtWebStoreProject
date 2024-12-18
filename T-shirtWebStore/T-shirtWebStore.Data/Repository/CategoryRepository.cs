@@ -12,46 +12,18 @@ namespace T_shirtWebStore.Data.Repository
 {
     public class CategoryRepository : Repository<Category>, ICategoryRepository
     {
+        private readonly IUnitOfWork _unitOfWork;
 
-        private ApplicationDbContext _database;
-        public CategoryRepository(ApplicationDbContext database) : base(database)
+        private ApplicationDbContext _app;
+        public CategoryRepository(ApplicationDbContext app) : base(app)
         {
-            _database = database;
+            _app = app;
         }
 
-        public void Add(Category entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Category Get(Expression<Func<Category, bool>> predicate)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerable<Category> GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Remove(Category entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void RemoveRange(IEnumerable<Category> entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Save()
-        {
-            _database.SaveChanges();
-        }
-
+   
         public void Update(Category category)
         {
-            _database.Categories.Update(category);
+            _app.Categories.Update(category);
         }
     }
 }
