@@ -8,7 +8,7 @@ namespace T_shirtWebStore.Data.Repository.IRepository
 {
     public interface IUnitOfWork 
     { 
-        ICategoryRepository CategoryRepository { get;  }
+        ICategoryRepository Category { get;  }
 
         void Save();
     }

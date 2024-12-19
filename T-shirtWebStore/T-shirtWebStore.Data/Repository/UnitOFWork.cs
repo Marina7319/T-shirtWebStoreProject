@@ -8,15 +8,15 @@ using T_shirtWebStore.Data.Repository.IRepository;
 
 namespace T_shirtWebStore.Data.Repository
 {
-    public class UnitOFWork : IUnitOfWork
+    public class UnitOfWork : IUnitOfWork
     {
         private ApplicationDbContext applicationDbContext;
-        public UnitOFWork(ApplicationDbContext _applicationDbContext) 
+        public ICategoryRepository Category { get; private set; }
+        public UnitOfWork(ApplicationDbContext _applicationDbContext) 
         {
             applicationDbContext = _applicationDbContext;
-            CategoryRepository = new CategoryRepository(_applicationDbContext);
+            Category = new CategoryRepository(applicationDbContext);
         }
-        public ICategoryRepository CategoryRepository { get; private set; }
 
         public void Save()
         {
